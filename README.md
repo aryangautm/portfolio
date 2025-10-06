@@ -1,4 +1,4 @@
-# 🚀 Portfolio Website
+# 🚀 Portfolio Website (Built by Cursor)
 
 A modern, beautiful, and fully responsive portfolio website built with React, TypeScript, and Framer Motion.
 
